@@ -1,1 +1,16 @@
+/* Farver */
+body{background-color:#E9E9DF; ;}
+header{
+    border-bottom: solid 1em #CC3432;
+}
+.baggrundsbillede{
+    margin: 0;
+    background-image: url('baggrund.jpg');
 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+footer{
+    border-top: solid 1em #CC3432;
+}
